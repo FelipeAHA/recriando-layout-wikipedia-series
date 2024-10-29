@@ -1,4 +1,4 @@
-# Módulo 3 - Trilha HTML
+# Family Guy Wiki Séries
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
 
